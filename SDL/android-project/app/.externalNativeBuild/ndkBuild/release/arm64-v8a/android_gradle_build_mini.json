@@ -1,0 +1,59 @@
+{
+  "buildFiles": [
+    "D:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Android.mk",
+    "D:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\migue\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/AndroidProjects/SDL/android-project/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 clean"
+  ],
+  "libraries": {
+    "SDL2-release-arm64-v8a": {
+      "artifactName": "SDL2",
+      "buildCommand": "C:\\Users\\migue\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/AndroidProjects/SDL/android-project/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 D:/AndroidProjects/SDL/android-project/app/build/intermediates/ndkBuild/release/obj/local/arm64-v8a/libSDL2.so",
+      "abi": "arm64-v8a",
+      "output": "D:\\AndroidProjects\\SDL\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\arm64-v8a\\libSDL2.so"
+    },
+    "box2d-release-arm64-v8a": {
+      "artifactName": "box2d",
+      "buildCommand": "C:\\Users\\migue\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/AndroidProjects/SDL/android-project/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 D:/AndroidProjects/SDL/android-project/app/build/intermediates/ndkBuild/release/obj/local/arm64-v8a/libbox2d.so",
+      "abi": "arm64-v8a",
+      "output": "D:\\AndroidProjects\\SDL\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\arm64-v8a\\libbox2d.so"
+    },
+    "cpufeatures-release-arm64-v8a": {
+      "artifactName": "cpufeatures",
+      "buildCommand": "C:\\Users\\migue\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/AndroidProjects/SDL/android-project/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 D:/AndroidProjects/SDL/android-project/app/build/intermediates/ndkBuild/release/obj/local/arm64-v8a/libcpufeatures.a",
+      "abi": "arm64-v8a",
+      "output": "D:\\AndroidProjects\\SDL\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\arm64-v8a\\libcpufeatures.a"
+    },
+    "jpeg-release-arm64-v8a": {
+      "artifactName": "jpeg",
+      "buildCommand": "C:\\Users\\migue\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/AndroidProjects/SDL/android-project/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 D:/AndroidProjects/SDL/android-project/app/build/intermediates/ndkBuild/release/obj/local/arm64-v8a/libjpeg.a",
+      "abi": "arm64-v8a",
+      "output": "D:\\AndroidProjects\\SDL\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\arm64-v8a\\libjpeg.a"
+    },
+    "SDL2_image-release-arm64-v8a": {
+      "artifactName": "SDL2_image",
+      "buildCommand": "C:\\Users\\migue\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/AndroidProjects/SDL/android-project/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 D:/AndroidProjects/SDL/android-project/app/build/intermediates/ndkBuild/release/obj/local/arm64-v8a/libSDL2_image.so",
+      "abi": "arm64-v8a",
+      "output": "D:\\AndroidProjects\\SDL\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\arm64-v8a\\libSDL2_image.so"
+    },
+    "png-release-arm64-v8a": {
+      "artifactName": "png",
+      "buildCommand": "C:\\Users\\migue\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/AndroidProjects/SDL/android-project/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 D:/AndroidProjects/SDL/android-project/app/build/intermediates/ndkBuild/release/obj/local/arm64-v8a/libpng.a",
+      "abi": "arm64-v8a",
+      "output": "D:\\AndroidProjects\\SDL\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\arm64-v8a\\libpng.a"
+    },
+    "main-release-arm64-v8a": {
+      "artifactName": "main",
+      "buildCommand": "C:\\Users\\migue\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/AndroidProjects/SDL/android-project/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 D:/AndroidProjects/SDL/android-project/app/build/intermediates/ndkBuild/release/obj/local/arm64-v8a/libmain.so",
+      "abi": "arm64-v8a",
+      "output": "D:\\AndroidProjects\\SDL\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\arm64-v8a\\libmain.so"
+    },
+    "hidapi-release-arm64-v8a": {
+      "artifactName": "hidapi",
+      "buildCommand": "C:\\Users\\migue\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\jni\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dD:/AndroidProjects/SDL/android-project/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\AndroidProjects\\SDL\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\lib APP_PLATFORM\u003dandroid-16 D:/AndroidProjects/SDL/android-project/app/build/intermediates/ndkBuild/release/obj/local/arm64-v8a/libhidapi.so",
+      "abi": "arm64-v8a",
+      "output": "D:\\AndroidProjects\\SDL\\android-project\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\arm64-v8a\\libhidapi.so"
+    }
+  }
+}
